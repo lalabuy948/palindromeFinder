@@ -1,6 +1,6 @@
 # Palindrome finder
 
-> SSorting 35k words in 0.01 sec
+> Sorting 35k words in 0.01 sec
 
 ## How to run
 
